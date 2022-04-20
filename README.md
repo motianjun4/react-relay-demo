@@ -1,3 +1,5 @@
+# React Relay GraphQL Demo
+This is a demo project for React Relay to show your GitHub profile.  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
